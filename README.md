@@ -1,5 +1,4 @@
 - 👋 Hola, soy @0xsofia
-- 👀 Estoy interesada en LUCIANO MACIAS
 - 🌱 Actualmente estoy estudiando Analista Programador Universitario
 
 <!---
